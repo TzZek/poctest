@@ -1,4 +1,4 @@
-public class Log4jRCE {
+public class Log4ShellRCE {
 
     static {
         
