@@ -8,5 +8,4 @@ public class Log4ShellRCE {
             e.printStackTrace();
         }
     }
-    }
 }
